@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Simple Calculator
+PURPOSE OF PROJECT: To calculate simple math problems
+VERSION or DATE: 9/27/2021
+HOW TO START THIS PROJECT: Run the program and it will then display a calculator GUI.
+AUTHOR: Aaron Rundberget
+USER INSTRUCTIONS: Run the program and it will then display a calculator GUI on the screen. The calculator is interactive so you don't have to type anything in.
